@@ -1,7 +1,7 @@
 # Formally proving the correctness of the (un)currying refactoring
 
 This repository contains the code used in the bachelor thesis project about formally proving the correctness of currying and uncurrying refactoring.
-The research project is done for the 2022/2023 edition of the CSE3000 Research Project at Delft University of Technology.
+The research project is done for the 2022/2023 edition of the [CSE3000 Research Project](https://github.com/TU-Delft-CSE/Research-Project) at Delft University of Technology.
 For this project, a simple Haskell-like language (HLL) was created to show a proof-of-concept for the refactoring.
 
 ```haskell
